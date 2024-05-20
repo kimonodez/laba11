@@ -1,0 +1,8 @@
+project/
+├── main.py
+├── routers/
+│   ├── version.py
+│   ├── posts.py
+│   └── stats.py
+└── tests/
+    └── test_endpoints.py
